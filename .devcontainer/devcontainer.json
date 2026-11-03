@@ -1,0 +1,11 @@
+{
+  "name": "HG Scheduling Agent",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vsliveshare.vsliveshare"
+      ]
+    }
+  }
+}
